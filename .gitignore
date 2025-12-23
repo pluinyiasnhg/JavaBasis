@@ -1,6 +1,9 @@
 # My personal config in Jetbrain IDEA
 .idea/
 *.iml
+out/
+
+# Below from: curl -o .gitignore https://raw.githubusercontent.com/github/gitignore/main/Java.gitignore
 
 # Compiled class file
 *.class
